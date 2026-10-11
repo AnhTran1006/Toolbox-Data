@@ -1,6 +1,24 @@
 {
   "devices": [
     {
+      "name": "Pixel 9 Pro",
+      "BRAND": "google",
+      "DEVICE": "caiman",
+      "MANUFACTURER": "Google",
+      "MODEL": "Pixel 9 Pro",
+      "FINGERPRINT": "google/caiman/caiman:14/AD1A.240530.047/12093554:user/release-keys",
+      "PRODUCT": "caiman",
+      "BOARD": "ripcurrent",
+      "HARDWARE": "ripcurrent",
+      "GL_VENDOR": "ARM",
+      "GL_RENDERER": "Mali-G715 MC7",
+      "SOC_MODEL": "Tensor G4",
+      "SOC_MANUFACTURER": "Google",
+      "SOC_ID": "",
+      "ANDROID_VERSION": "14",
+      "SECURITY_PATCH": "2024-09-05"
+    },
+    {
       "name": "ASUS ROG Phone 8 Pro",
       "BRAND": "asus",
       "DEVICE": "ROG Phone 8 Pro",
