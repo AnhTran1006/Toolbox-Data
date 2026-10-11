@@ -34,10 +34,10 @@ jobs:
           curl --fail --location --retry 3 --retry-all-errors \
             "https://raw.githubusercontent.com/zuri1503/Toolbox-Database/main/app-props.json" \
             -o Toolbox-data/app-props.json
-
-          curl --fail --location --retry 3 --retry-all-errors \
-            "https://raw.githubusercontent.com/zuri1503/Toolbox-Database/main/device-props.json" \
-            -o Toolbox-data/device-props.json
+            
+#          curl --fail --location --retry 3 --retry-all-errors \
+#            "https://raw.githubusercontent.com/zuri1503/Toolbox-Database/main/device-props.json" \
+#            -o Toolbox-data/device-props.json
 
       - name: Validate data
         shell: bash
